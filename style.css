@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    color:white;
+}
+p{
+    background-color: antiquewhite;
+    margin: 10px;
+    color:red;
+    border: 5px dotted aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+}
+h3{
+    display: inline;
+    background-color: blueviolet;
+    margin: 10px;
+}
